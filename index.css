@@ -1,0 +1,72 @@
+body{
+    background-color:rgb(202, 217, 221);
+}
+ul{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex
+
+}
+a{
+    text-decoration: none;
+    padding: 2vh;
+    
+}
+nav{
+    width: 100vw;
+    background-color:lightblue
+    
+}
+li{
+    font-size: 3vh;
+    margin: 2vh;
+    display: block;
+  
+}
+a:hover{
+    background-color:lightcoral
+  }
+ 
+
+
+   .activ{
+       color:mediumblue
+   }
+   /* for index page */
+   #image1{
+       height: 70vh;
+       float: left;
+       display: flex;
+       padding: 30px;
+   }
+   #div1{
+       padding: 30px;
+       display: block;
+       font-size:x-large;
+        
+        width: 1000px;
+   }
+    /* for about page */
+    #div2{
+        padding:30px;
+        font-size: x-large;
+        float: left;
+        display: flex;
+        width: 30%;
+    }
+    #image2{
+        padding: 40px;
+        
+    }
+
+    /* for contact page */
+    #div3{
+        font-size: x-large;
+        padding-left: 30px;
+    }
+
+
+     
+  
+  
